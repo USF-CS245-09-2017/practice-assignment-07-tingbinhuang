@@ -1,9 +1,13 @@
+// Practice assignment 7 from CS 245 Section I
+// Author Tingbin Huang 
 
 import java.util.*;
 
-
 public class Hashtable {
 	
+	/*
+		Initialize an inner class, HashNode. 
+	*/
 	class HashNode{
 		private String key;
 		private String value; 
